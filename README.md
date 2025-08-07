@@ -1,1 +1,1 @@
-https://numpy.org/devdocs/user/basics.html
+https://numpy.org/doc/stable/user/quickstart.html
